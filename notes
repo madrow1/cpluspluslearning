@@ -1,0 +1,19 @@
+Variables
+int : basic numbers : 1, -5, can use normal representation, can use hex and binary numbers 
+float: decimals, must have a trailing "f" : 0.45f 
+double: float literal without trailing "f" : 46.3
+char: 8 bit character representation : "a"
+string: string of characters: "this is a string" 
+
+Assignments are a line of code that assigns a value to a variable
+
+OPERATORS 
+Math: + - * / % 
+Bitwise: | & ^
+Logical: && || !
+Relational: == != > < >= <= 
+Pointer: * & ->
+
+Type inference 
+auto : 
+These variables have a variable type depending on the value assigned, however that value must be assigned on initialsation.
