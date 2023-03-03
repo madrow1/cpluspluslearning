@@ -17,3 +17,9 @@ Pointer: * & ->
 Type inference 
 auto : 
 These variables have a variable type depending on the value assigned, however that value must be assigned on initialsation.
+
+CONSTANTS
+identifiers with values that will not change during execution: size of a screen or length of a memory buffer 
+
+Arrays
+a sequential block of memory addresses 
