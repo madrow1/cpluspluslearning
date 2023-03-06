@@ -23,3 +23,7 @@ identifiers with values that will not change during execution: size of a screen 
 
 Arrays
 a sequential block of memory addresses 
+
+Structures can be used to impliment simple models that do not require data 
+
+Classes are more complex structures, they can be used for implimenting models, contain data and function members
