@@ -27,3 +27,5 @@ a sequential block of memory addresses
 Structures can be used to impliment simple models that do not require data 
 
 Classes are more complex structures, they can be used for implimenting models, contain data and function members
+
+header files contain class definitions and function declarations that can then be called throughout a project

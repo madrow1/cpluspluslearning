@@ -1,33 +1,7 @@
 #include <iostream>
 #include <string>
+#include "classes.h"
 
-enum cow_purpose {dairy,meat,hide,pet} ; 
-
-class cow{
-public: 
-    cow(std::string name_i, int age_i, unsigned char purpose_i){
-        name = name_i;
-        age = age_i;
-        purpose = purpose_i;
-    }
-    std::string get_name(){
-        return name;
-    }
-    int get_age(){
-        return age; 
-    }
-    unsigned char get_purpose(){
-        return purpose;
-    }
-    void set_age(int new_age){
-        age = new_age;
-    }
-
-private:
-    std::string name;
-    int age; 
-    unsigned char purpose; 
-};
 
 int main()
 {
