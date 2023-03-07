@@ -14,7 +14,7 @@ string std_str2 = "This is another test string";
 
 int main()
 {
-    strcat_s(array_str1,LENGTH1, array_str2);
+    strcat(array_str1,LENGTH1, array_str2);
     cout << array_str1 << endl; 
     cout << std_str1 + std_str2 << endl; 
     return(0);
